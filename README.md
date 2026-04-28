@@ -57,8 +57,7 @@ This artifact lives in a pnpm workspace monorepo. From the repo root:
 
 # install
 pnpm install
-# run the game in dev mode
-pnpm --filter @workspace/ad-car-simulator run dev
+
 # typecheck
 pnpm --filter @workspace/ad-car-simulator run typecheck
 # production build
